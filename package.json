@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.4.2",
+    "@napi-rs/lzma": "^1.4.1"
+  },
+  "scripts": {
+    "start": "functions-framework --target=compressXZ"
+  }
+}
